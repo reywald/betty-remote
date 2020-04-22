@@ -1,1 +1,1 @@
-# betty-remote
+# netauto
